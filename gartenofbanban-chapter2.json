@@ -155,42 +155,42 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/1.png",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/1.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/2.png",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/2.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/3.png",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/3.png",
             "bg" : "#38BDF8"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/4.png",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/4.png",
             "bg" : "#2DD4BF"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/5.png",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/5.png",
             "bg" : "#4ADE80"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/6.png",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/6.png",
             "bg" : "#2196F3"
         },{
             "active" : "true",
             "name" : "more",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/7.png",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/7.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/8.png",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/8.png",
             "bg" : "#673AB7"
         }
     ],
@@ -253,58 +253,58 @@
     
     "scratch" : [
         {
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/1.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/1.png"
         },{
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/2.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/5.png"
         },{
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/3.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/2.png"
         },{
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/4.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/4.png"
         },{
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/5.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/3.png"
         }
     ],
 
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/1.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/1.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/2.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/2.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/3.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/3.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/4.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/4.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/5.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/5.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/6.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/6.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/7.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/7.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/8.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/8.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/9.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/9.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/10.png"
+            "img" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/wall/10.png"
         }
     ],
     

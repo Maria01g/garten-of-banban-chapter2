@@ -1,1 +1,360 @@
-k
+{
+    "config" : [
+        {
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
+            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
+            "vpn_user" : "freeopenvpn",
+            "vpn_password" : "204703142",
+
+            "int_interval" : 3,
+            "activate_ads" : "false",
+            "activate_steps" : "false",
+            "activate_step_email" : "false",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "is",
+
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-1820435-2",
+            "yandex_int" : "R-M-1820435-3",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+
+            "iron_source_key": "",
+
+            "diamond": "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/diamo.png",
+            "cover": "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/co.png",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+
+    "quizquestions" : [
+        {
+            "questions" :
+            [
+                { "question" : "Who is the DJ character?" },
+                { "question" : "standard characters with no special abilities. Which are the two characters?" },
+                { "question" : "Who is the first character?" },
+                { "question" : "What is the 2nd card?" },
+                { "question" : "How many animals are there?" },
+                { "question" : "Which of the following is the correct Game genre?" },
+                { "question" : "The game play is fast-paced with each round lasting:" },
+                { "question" : "Who is the DJ character?" },
+                { "question" : "Who is the DJ character?" },
+                { "question" : "standard characters with no special abilities. Which are the two characters?" },
+                { "question" : "Who is the first character?" },
+                { "question" : "What is the 2nd card?" },
+                { "question" : "How many animals are there?" },
+                { "question" : "Which of the following is the correct Game genre?" },
+                { "question" : "The game play is fast-paced with each round lasting:" },
+                { "question" : "Who is the DJ character?" },
+                { "question" : "Game was published by Garena for which of the following platform(s)?" }
+            ],
+            "answers" :
+            [
+                { "answer" : "ALOK" },
+                { "answer" : "Adam and Eve" },
+                { "answer" : "Adam" },
+                { "answer" : "Portugal" },
+                { "answer" : "More" },
+                { "answer" : "Battle Royale" },
+                { "answer" : "20 minutes" },
+                { "answer" : "Adam and Eve" },
+                { "answer" : "ALOK" },
+                { "answer" : "Adam and Eve" },
+                { "answer" : "Adam" },
+                { "answer" : "Portugal" },
+                { "answer" : "More" },
+                { "answer" : "Battle Royale" },
+                { "answer" : "20 minutes" },
+                { "answer" : "Adam and Eve" },
+                { "answer" : "Android and iOS" }
+            ],
+            "options" :
+            [
+                { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Adam and Eve" }, { "option" : "Misha and Maxim" }, { "option" : "Kely and Nikita" }, { "option" : "Adam" },
+                { "option" : "Rafael" }, { "option" : "The monkey king" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Portugal" }, { "option" : "Snowball" }, { "option" : "zombie invasion" }, { "option" : "Classic" },
+                { "option" : "5" }, { "option" : "2" }, { "option" : "7" }, { "option" : "More" },
+                { "option" : "Adventure" }, { "option" : "Role-Playing" }, { "option" : "Battle Royale" }, { "option" : "Simulation" },
+                { "option" : "10 minutes" }, { "option" : "15 minutes" }, { "option" : "20 minutes" }, { "option" : "25 minutes" },
+                { "option" : "Misha and Maxim" }, { "option" : "Adam and Eve" }, { "option" : "Kely and Nikita" }, { "option" : "Hayato and Laura" },
+                { "option" : "ALOK" }, { "option" : "Hayato" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Adam and Eve" }, { "option" : "Misha and Maxim" }, { "option" : "Kely and Nikita" }, { "option" : "Adam" },
+                { "option" : "Rafael" }, { "option" : "The monkey king" }, { "option" : "Maxime" }, { "option" : "Adam" },
+                { "option" : "Portugal" }, { "option" : "Snowball" }, { "option" : "zombie invasion" }, { "option" : "Classic" },
+                { "option" : "5" }, { "option" : "2" }, { "option" : "7" }, { "option" : "More" },
+                { "option" : "Adventure" }, { "option" : "Role-Playing" }, { "option" : "Battle Royale" }, { "option" : "Simulation" },
+                { "option" : "10 minutes" }, { "option" : "15 minutes" }, { "option" : "20 minutes" }, { "option" : "25 minutes" },
+                { "option" : "Misha and Maxim" }, { "option" : "Adam and Eve" }, { "option" : "Kely and Nikita" }, { "option" : "Hayato and Laura" },
+                { "option" : "Game Boy" }, { "option" : "Android and iOS" }, { "option" : "Linux and Nintendo" }, { "option" : "Sega Mark III" }
+            ]
+        }
+    ],
+
+    "quizimages" : [
+        {
+            "images" :
+            [
+                { "image" : "https://cdn.akamai.steamstatic.com/steam/apps/1677740/ss_39dd63c1ac25fe267021845e5374da17c9455393.1920x1080.jpg?t=1650527635" },
+                { "image" : "https://c.tenor.com/SBj5aYuNpAUAAAAC/arunraj-stumble-guys.gif" },
+                { "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1677740/ss_2a10d8f0b09d3ef56538e254c8ad2a783b30f39a.1920x1080.jpg?t=1650527635" },
+                { "image" : "ttps://c.tenor.com/u9exTGy3NcgAAAAC/stumble-guys-honey-drop.gif" },
+                { "image" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/02/1177498885.png" },
+                { "image" : "https://i.quotev.com/nmk7j5mjtdla.jpg" },
+                { "image" : "https://i.quotev.com/qn4k3m4vgr5a.jpg" },
+                { "image" : "https://i.quotev.com/yq67tsyngxxa.jpg" },
+                { "image" : "https://i.quotev.com/nmk7j5mjtdla.jpg" }
+            ],
+            "answers" :
+            [
+                { "answer" : "Destiny Guardian" },
+                { "answer" : "Predatory Cobra" },
+                { "answer" : "Destiny Effect" },
+                { "answer" : "Cobra Effect" },
+                { "answer" : "Destiny Guardian" },
+                { "answer" : "Predatory Cobra" },
+                { "answer" : "Destiny Effect" },
+                { "answer" : "Cobra Effect" },
+                { "answer" : "SPAS12" }
+            ],
+            "options" :
+            [
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "None" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "Predatory Cobra" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Destiny Effect" }, { "option" : "UMP Effect" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Cobra Effect" }, { "option" : "UMP Effect" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "None" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "Predatory Cobra" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Destiny Effect" }, { "option" : "UMP Effect" },
+                { "option" : "Predatory Effect" }, { "option" : "M4A1 Effect" }, { "option" : "Cobra Effect" }, { "option" : "UMP Effect" },
+                { "option" : "UMP - Booyah Day" }, { "option" : "Destiny Guardian" }, { "option" : "M4A1 - GENOS" }, { "option" : "SPAS12" }
+            ]
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },{
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/1.png",
+            "bg" : "#FBBF24"
+        },{
+            "active" : "true",
+            "name" : "spinner",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/2.png",
+            "bg" : "#A3E635"
+        },{
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/3.png",
+            "bg" : "#38BDF8"
+        },{
+            "active" : "true",
+            "name" : "questions",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/4.png",
+            "bg" : "#2DD4BF"
+        },{
+            "active" : "true",
+            "name" : "quiz",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/5.png",
+            "bg" : "#4ADE80"
+        },{
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/6.png",
+            "bg" : "#2196F3"
+        },{
+            "active" : "true",
+            "name" : "more",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/7.png",
+            "bg" : "#3F51B5"
+        },{
+            "active" : "true",
+            "name" : "games",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/8.png",
+            "bg" : "#673AB7"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Zoopolis: Animal Evolution",
+            "ico" : "https://play-lh.googleusercontent.com/qi9Q5yIgYuSFYOLaRvkrzEWUdIPUoGKZcidP9kP4IRCbLWs7f2vVaMs5_YBWMh5URkU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.azurinteractive.animalsevolution"
+        },{
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },{
+            "name" : "The Real Juggle",
+            "ico" : "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+        },{
+            "name" : "Slap Kings",
+            "ico" : "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+        },{
+            "name" : "Hit Master 3D - Knife Assassin",
+            "ico" : "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.hit.master"
+        },{
+            "name" : "Do Not Fall .io",
+            "ico" : "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=fall.race.io"
+        },{
+            "name" : "Tall Man Run",
+            "ico" : "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+        }
+
+    ],
+    
+    "games" : [
+        {
+            "name" : "MOD 1",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/1.png",
+            "link" : "https://poki.com/en/g/merge-arena#fullscreen",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "MOD 2",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/2.png",
+            "link" : "https://poki.com/en/g/castle-defender-saga#fullscreen",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "MOD 0",
+            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/3.png",
+            "link" : "https://poki.com/en/g/like-a-king#fullscreen",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        }
+
+    ],
+    
+    "scratch" : [
+        {
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/1.png"
+        },{
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/2.png"
+        },{
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/3.png"
+        },{
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/4.png"
+        },{
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/5.png"
+        }
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/1.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/2.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/3.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/4.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/5.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/6.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/7.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/8.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/9.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/wall/10.png"
+        }
+    ],
+    
+    "data" : [
+        {
+            "url" : "",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "J.Biebs",
+            "img1" : "https://i.quotev.com/nmk7j5mjtdla.jpg",
+            "img2" : "https://i.quotev.com/g5qasdlb3ddq.jpg",
+            "part1" : "SPECIAL SURVIVAL ABILITY",
+            "part2" : "J.Biebs is a man who wants to unite a fractured world. Through his childhood experiences, he learned that the answer to people’s problems is not money or power but the actual connection between people. He has decided to use his singing skills to dedicate his life to reunite the world."
+        },
+        {
+            "url" : "",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Homer",
+            "img1" : "https://i.quotev.com/6b735o2xigca.jpg",
+            "img2" : "https://i.quotev.com/tl2gy3ok3zwa.jpg",
+            "part1" : "Senses Shockwave",
+            "part2" : "Releases a drone towards the nearest enemy within a 100m frontal distance, creating a 5m-diameter pulse explosion which reduces movement speed by 10% and firing speed by 10%."
+        },
+        
+        {
+            "url" : "",
+            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
+            "name" : "Kenta",
+            "img1" : "https://i.quotev.com/enuv4jhvydrq.jpg",
+            "img2" : "https://i.quotev.com/nmk7j5mjtdla.jpg",
+            "part1" : "Swordsman‘s Wrath",
+            "part2" : "Forms a frontal shield of 5m width that reduces 65% weapon damage coming from the front. Lasts for 5s and resets when user fires a shot. CD: 120s.Kenta served as a bodyguard and bladesmith for Hayato Yagamis family for years. He is a man of few words but protects his new, young master in whatever situation they find themselves in. He does have his own personal desires, but he puts them on the backburner as he serves Hayato during a dangerous time for the Yagami family."
+        },
+        {
+            "url" : "",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Nairi",
+            "img1" : "https://i.quotev.com/qn4k3m4vgr5a.jpg",
+            "img2" : "https://i.quotev.com/yq67tsyngxxa.jpg",
+            "part1" : "Ice Iron",
+            "part2" : "Gloowalls deployed will recover 40% of current durability every 1s when damage is taken. Damage increased 30% when using ARs on Gloo WallsNairi found an interest in weather at a young age when he was forced away from cold climates. But his love for snow led him to find a way to get himself back there. He developed micromanipulation climate technology to allow him to survive in the most extreme environments. Now he spends his time rock climbing, hiking and chasing storms looking for the answers to predicting climate."
+        },
+        {
+            "url" : "",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
+            "name" : "Alvaro",
+            "img1" : "https://i.quotev.com/tl2gy3ok3zwa.jpg",
+            "img2" : "https://i.quotev.com/yq67tsyngxxa.jpg",
+            "part1" : "Art of Demolition",
+            "part2" : "Explosive weapon damage increases by 10%, damage range increases by 7%.Alvaro is a young man with an explosive personality. A childhood accident gifted him with special explosive powers, at the cost of his memories. He is lost in a constant circle of searching for his memories and needing to use his powers to save those he cares for. The only constant he has found in his life is Kapella, his childhood best friend, whom he no longer consciously remembers."
+        }
+       
+    ]
+}

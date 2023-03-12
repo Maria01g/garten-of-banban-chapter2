@@ -178,7 +178,7 @@
             "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/5.png",
             "bg" : "#4ADE80"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "wallpapers",
             "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/6.png",
             "bg" : "#2196F3"
@@ -188,7 +188,7 @@
             "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/8.png",
             "bg" : "#673AB7"

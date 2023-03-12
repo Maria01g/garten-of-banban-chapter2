@@ -228,23 +228,29 @@
 
     ],
     
-    "games" : [
+ "games" : [
         {
-            "name" : "MOD 1",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/1.png",
-            "link" : "https://poki.com/en/g/merge-arena#fullscreen",
+            "name" : "BANBAN 3",
+            "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/1a.jpg",
+            "link" : "https://yandex.com/games/app/192490?utm_source=yandex&utm_medium=com&utm_campaign=morda#app-id=192490&catalog-session-uid=catalog-16cb0407-7a17-57ac-bde8-e7bcdd1581cb-1673482397201-f628&rtx-reqid=10980411383013247026&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
             "cat" : "Overall",
-            "orientation" : "1"
+            "orientation" : "0"
         },{
-            "name" : "MOD 2",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/2.png",
-            "link" : "https://poki.com/en/g/castle-defender-saga#fullscreen",
+            "name" : "BANBAN 2",
+            "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/2a.jpg",
+            "link" : "https://yandex.com/games/app/192536?utm_source=yandex&utm_medium=com&utm_campaign=morda#app-id=192536&catalog-session-uid=catalog-16cb0407-7a17-57ac-bde8-e7bcdd1581cb-1673482397201-f628&rtx-reqid=10980411383013247026&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
             "cat" : "Strategies",
             "orientation" : "0"
         },{
-            "name" : "MOD 0",
-            "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/3.png",
-            "link" : "https://poki.com/en/g/like-a-king#fullscreen",
+            "name" : "BANBAN 1",
+            "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/3a.png",
+            "link" : "https://www.y8.com/games/it_s_playtime_they_are_coming/mobile",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "BANBAN 0",
+            "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/4a.png",
+            "link" : "https://www.agame.com/game/poppy-huggie-escape",
             "cat" : "Arcade",
             "orientation" : "0"
         }

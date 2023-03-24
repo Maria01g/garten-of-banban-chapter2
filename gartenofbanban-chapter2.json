@@ -8,7 +8,7 @@
             "vpn_password" : "204703142",
 
             "int_interval" : 1,
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -30,7 +30,7 @@
             "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
             "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
 
-            "iron_source_key": "",
+            "iron_source_key": "194479295",
 
             "diamond": "https://raw.githubusercontent.com/nezdedio/stumbleguys/main/diamo.png",
             "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2232840/extras/Group.gif",

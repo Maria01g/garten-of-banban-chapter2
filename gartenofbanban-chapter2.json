@@ -158,7 +158,7 @@
             "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/1.png",
             "bg" : "#FBBF24"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "spinner",
             "ico" : "https://raw.githubusercontent.com/Maria01g/garten-of-banban-chapter2/main/Nouveau%20dossier/2.png",
             "bg" : "#A3E635"
